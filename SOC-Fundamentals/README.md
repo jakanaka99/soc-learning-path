@@ -41,7 +41,6 @@ The SOC Fundamentals course explains how a SOC operates, the responsibilities of
 - MITRE ATT&CK awareness  
 
 ---
-
 ## 🖼️ Proof of Completion
 ![SOC Fundamentals Completion](./SOC-Fundamentals/Screenshots/Screenshot%20(1760).png)
 
