@@ -42,7 +42,7 @@ The SOC Fundamentals course explains how a SOC operates, the responsibilities of
 
 ---
 ## 🖼️ Proof of Completion
-![SOC Fundamentals Completion](./SOC-Fundamentals/Screenshots/Screenshot (1760).png)
+![SOC Fundamentals Completion](./SOC-Fundamentals/Screenshots/Screenshot_1760.png)
 
 ---
 
