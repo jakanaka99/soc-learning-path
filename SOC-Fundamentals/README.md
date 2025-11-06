@@ -27,7 +27,6 @@ The SOC Fundamentals course explains how a SOC operates, the responsibilities of
 - Analyst duties and workflow during incidents  
 - Basics of SIEM tools and correlation rules  
 - Importance of log management and EDR  
-- Threat intelligence feeds and automation  
 - Mitigation approaches and incident response mindset  
 
 ---
@@ -36,7 +35,6 @@ The SOC Fundamentals course explains how a SOC operates, the responsibilities of
 - SIEM (Security Information and Event Management)  
 - EDR (Endpoint Detection and Response)  
 - SOAR (Security Orchestration, Automation, and Response)  
-- **SQL (data querying for log analysis)**  
 - Log analysis & investigation  
 - MITRE ATT&CK awareness  
 
