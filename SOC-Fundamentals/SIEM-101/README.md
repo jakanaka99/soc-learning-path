@@ -44,7 +44,7 @@ It introduces essential SIEM components such as **log collection, parsing, norma
 
 ## 🖼️ Proof / Screenshot
 
-*(Add your screenshot or lab completion proof here)*
+![SIEM 101 Screenshot](./Screenshot%20(1800).png)
 
 ---
 
