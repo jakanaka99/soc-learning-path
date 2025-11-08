@@ -1,5 +1,3 @@
-# 🧠 SIEM 101 — Useful Notes (Simple & Complete)
-
 > This section is part of my **SOC learning journey** on [LetsDefend.io](https://letsdefend.io).
 
 ---
