@@ -10,7 +10,7 @@ Each folder below represents a specific topic or course I’ve completed.
 ## 📚 Contents
 
 - [SOC Fundamentals](./SOC-Fundamentals)
-- [SIEM-101](./https://github.com/jakanaka99/soc-learning-path/tree/main/SOC-Fundamentals/SIEM-101)
+- [SIEM-101](./SOC-Fundamentals/SIEM-101)
 - (More coming soon...)
 
 ---
