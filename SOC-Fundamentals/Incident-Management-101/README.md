@@ -31,7 +31,7 @@ It introduces key concepts such as incidents, events, alerts, false positives, t
 - 🧾 Post-incident documentation overview
 
 🖼️ Proof / Screenshot
-
+(./SOC-Fundamentals/Incident-Management-101/Screenshot (1836).png)
 🔗 Platform
 Completed on: LetsDefend.io
 
