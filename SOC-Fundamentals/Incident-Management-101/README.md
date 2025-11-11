@@ -7,12 +7,14 @@ The main goal was to understand how incidents are identified, analyzed, containe
 
 It introduces key concepts such as incidents, events, alerts, false positives, true positives, false negatives, containment, post-incident review, and playbooks.
 
+
 🧩 Topics Covered
 - Difference between an Incident, Event, and Alert
 - Understanding False Positives, True Positives, and False Negatives
 - The purpose of Containment
 - Importance of Post-Incident review
 - Introduction to SOC Playbooks
+
 
 🧠 Key Learnings
 - **Incident:** A confirmed security problem.
@@ -25,13 +27,18 @@ It introduces key concepts such as incidents, events, alerts, false positives, t
 - **Post-Incident:** Documenting what happened and how to prevent it again.
 - **Playbook:** A predefined, step-by-step guide for handling specific types of security incidents.
 
+
 🧰 Tools & Skills Practiced
 - 🧩 Understanding and reviewing incident playbooks
 - 🚨 Learning key incident response terminology
 - 🧾 Post-incident documentation overview
 
 🖼️ Proof / Screenshot
-(./SOC-Fundamentals/Incident-Management-101/Screenshot (1836).png)
+
+![Incident Management 101 Screenshot](Screenshot%20(1836).png)
+
+
+
 🔗 Platform
 Completed on: LetsDefend.io
 
