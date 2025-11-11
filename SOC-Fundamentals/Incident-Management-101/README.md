@@ -2,16 +2,19 @@
 
 This section is part of my SOC learning journey on [LetsDefend.io](https://letsdefend.io).
 
-📘 **Overview**  
+---
+
+## 📘 Overview
+
 This chapter covers the fundamentals of **Incident Management** — how a SOC handles security problems from detection to resolution to keep systems safe.
 
 The main goal was to understand how incidents are identified, analyzed, contained, and documented using structured processes within a SOC.
 
-It introduces key concepts such as **incidents, events, alerts, false positives, true positives, false negatives, containment, post-incident review, and playbooks.**
+It introduces key concepts such as **incidents, events, alerts, false positives, true positives, false negatives, containment, post-incident review, and playbooks** — foundational knowledge for every SOC analyst.
 
 ---
 
-🧩 **Topics Covered**
+## 🧩 Topics Covered
 - Difference between an Incident, Event, and Alert  
 - Understanding False Positives, True Positives, and False Negatives  
 - The purpose of Containment  
@@ -20,7 +23,7 @@ It introduces key concepts such as **incidents, events, alerts, false positives,
 
 ---
 
-🧠 **Key Learnings**
+## 🧠 Key Learnings
 - **Incident:** A confirmed security problem.  
 - **Event:** Any recorded system activity (not always bad).  
 - **Alert:** A warning from a tool about possible danger.  
@@ -31,19 +34,19 @@ It introduces key concepts such as **incidents, events, alerts, false positives,
 
 ---
 
-🧰 **Tools & Skills Practiced**
+## 🧰 Tools & Skills Practiced
 - 🧩 Understanding and reviewing incident playbooks  
 - 🛡️ Learning key incident response terminology  
 - 🧾 Post-incident documentation overview  
 
 ---
 
-🖼️ **Proof / Screenshot**  
+## 🖼️ Proof / Screenshot
 ![Incident Management 101 Screenshot](Screenshot%20(1836).png)
 
 ---
 
-🔗 **Platform**  
-Completed on: [LetsDefend.io](https://letsdefend.io)
+## 🔗 Platform
+**Completed on:** [LetsDefend.io](https://letsdefend.io)  
 
 📓 Part of my ongoing SOC Analyst learning path — documenting insights and takeaways from foundational cybersecurity labs.
