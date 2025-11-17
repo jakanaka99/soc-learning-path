@@ -22,4 +22,5 @@ Each lab or topic includes:
 3. **Findings** — Indicators, evidence, and takeaways  
 4. **Conclusion** — Lessons learned and mitigation steps  
 --
+
 🧠 *Goal:* Build a strong foundation in SOC analysis, incident response, and threat detection through continuous learning and practice.
