@@ -18,7 +18,7 @@ Each folder below represents a specific topic or course I’ve completed.
 ### 🧾 How I Document Labs
 Each lab or topic includes:
 1. **Overview** — Scenario summary and objective  
-2. **Steps Taken** — Commands, reasoning, and tools used  
+2. **Topics covered** — Commands, reasoning, and tools   
 3. **Findings** — Indicators, evidence, and takeaways  
 4. **Conclusion** — Lessons learned and mitigation steps  
 --
