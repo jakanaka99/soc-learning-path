@@ -100,5 +100,5 @@ I still documented everything I could based on the available data.
 ## ✅ Conclusion
 
 This README summarizes how I investigate phishing emails using a real SOC workflow.  
-For a complete example, please check **[Investigation-1] (./Investigation-1/) ** in the provided directory.
+For a complete example, please check [Investigation-1](./Investigation-1/)in the provided directory.
 
