@@ -92,7 +92,7 @@ Depending on findings:
 
 You can view my complete detailed analysis here:
 
-[Investigation-1](./Phishing-Analysis/Investigation-1/)
+[Investigation-1](./Phishing-Analysis/Investigation-1)
 
 Includes:
 - Full alert analysis  
