@@ -13,7 +13,7 @@ Each folder below represents a specific topic or course I have completed.
 - [SOC Fundamentals](./SOC-Fundamentals)
 - [SIEM-101](./SOC-Fundamentals/SIEM-101)
 - [Incident Management-101](./SOC-Fundamentals/Incident-Management-101)
-- [Phishing Analysis](./SOC-Fundamentals/Phishing-Analysis)
+- [Phishing Email Analysis](./SOC-Fundamentals/Phishing-Analysis)
 
 - (More coming soon...)
 
