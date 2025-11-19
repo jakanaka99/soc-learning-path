@@ -86,23 +86,8 @@ Depending on findings:
 - Add IOCs to blocklist  
 - Terminate machine if user downloaded/opened something
 
----
-
-## 📁 Full Investigation Report
-
-You can view my complete detailed analysis here:
-
-[Investigation-1](./Investigation-1/)
-
-Includes:
-- Full alert analysis  
-- Reasoning behind each decision  
-- IOC extraction  
-- Final verdict  
-- Containment actions  
 
 ---
-
 ## ❗ Note About Completion Screenshot
 
 Currently, I **cannot provide the completion screenshot** because the LetsDefend lab for that specific case does not allow me to use the lab more than once i dont know when the timer is going to be end.  
@@ -115,5 +100,5 @@ I still documented everything I could based on the available data.
 ## ✅ Conclusion
 
 This README summarizes how I investigate phishing emails using a real SOC workflow.  
-For a complete example, please check **[Investigation-1] (./Phishing-Analysis/Investigation-1/) ** in the provided directory.
+For a complete example, please check **[Investigation-1] (./Investigation-1/) ** in the provided directory.
 
