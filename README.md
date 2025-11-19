@@ -1,4 +1,3 @@
-String readme = """
 # SOC Learning Path
 
 Welcome to my SOC & Cybersecurity learning journey 🚀  
