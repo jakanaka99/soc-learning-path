@@ -11,7 +11,7 @@ Each folder represents a specific topic, course, or investigation I’ve complet
 
 - [SOC Fundamentals](./SOC-Fundamentals)
 - [SIEM-101](./SIEM-101)
-- [Incident Management 101](./Incident-Management-101)
+- [Incident-Management 101](./incident-Management-101)
 - [Phishing Email Analysis](./Phishing-Analysis)
 
 *(More coming soon…)*
