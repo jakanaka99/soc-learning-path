@@ -42,7 +42,7 @@ It introduces key concepts such as **incidents, events, alerts, false positives,
 ---
 
 ## 🖼️ Proof / Screenshot
-![Incident Management 101 Screenshot](Screenshot%20(1836).png)
+![Incident Management 101 Screenshot](Screenshots/Incident-Management.png)
 
 ---
 
