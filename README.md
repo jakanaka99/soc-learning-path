@@ -1,32 +1,42 @@
-# SOC Learning Path
+# SOC Learning Path 🚀
 
-Welcome to my SOC & Cybersecurity learning journey 🚀  
+Welcome to my SOC & Cybersecurity learning journey.  
 This repository documents my hands-on experience, notes, and progress from courses and labs completed on **LetsDefend** and other training platforms.
 
-Each folder below represents a specific topic or course I have completed.
+Each folder represents a specific topic, course, or investigation I’ve completed as part of building my SOC analyst skillset.
 
 ---
 
 ## 📚 Contents
 
 - [SOC Fundamentals](./SOC-Fundamentals)
-- [SIEM-101](./SOC-Fundamentals/SIEM-101)
-- [Incident Management-101](./SOC-Fundamentals/Incident-Management-101)
-- [Phishing Email Analysis](./SOC-Fundamentals/Phishing-Analysis)
+- [SIEM-101](./SIEM-101)
+- [Incident Management 101](./Incident-Management-101)
+- [Phishing Email Analysis](./Phishing-Analysis)
 
-- (More coming soon...)
-
----
-
-### 🧾 How I Document Labs
-
-Each lab or topic includes:
-1. **Overview** — A summary of the scenario and objectives  
-2. **Topics Covered** — Commands used, reasoning, tools involved, and analysis steps  
-3. **Findings** — Key indicators, evidence, observations, and takeaways  
-4. **Conclusion** — Lessons learned and recommended mitigation steps  
+*(More coming soon…)*
 
 ---
 
-🧠 *Goal:* Build a strong foundation in SOC analysis, incident response, and threat detection through continuous, hands-on learning and practice.
-""";
+## 🧾 How I Document Labs
+
+Each lab or topic follows a consistent structure to reflect real SOC documentation standards:
+
+### **1. Overview**  
+A summary of the scenario, objectives, and what I am expected to analyze or detect.
+
+### **2. Topics / Steps Covered**  
+Commands used, tools involved, reasoning behind decisions, and the complete investigation workflow.
+
+### **3. Findings**  
+Key indicators of compromise, suspicious behaviors, artifacts, evidence, and conclusions from the analysis.
+
+### **4. Conclusion**  
+Lessons learned, remediation recommendations, and how the findings tie into real-world SOC operations.
+
+---
+
+## 🧠 Goal
+
+To build a strong foundation in SOC analysis, incident response, log analysis, and threat detection through continuous hands-on learning and structured documentation.
+
